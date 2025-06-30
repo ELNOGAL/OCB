@@ -145,6 +145,6 @@
 
         <menuitem id="stock.menu_procurement_compute"
         parent="menu_stock_warehouse_mgmt" sequence="135" groups="base.group_no_one"
-        action="ir_cron_scheduler_action_ir_actions_server"/>
+        action="ir_cron_scheduler_action"/>
     </data>
 </odoo>

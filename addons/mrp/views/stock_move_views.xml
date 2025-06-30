@@ -88,7 +88,7 @@
             sequence="25"/>
 
     <menuitem id="menu_procurement_compute_mrp"
-        action="stock.ir_cron_scheduler_action_ir_actions_server"
+        action="stock.ir_cron_scheduler_action"
         parent="mrp_planning_menu_root"
         groups="base.group_no_one"
         sequence="135"/>
